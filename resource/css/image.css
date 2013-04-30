@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+
+	
+/**file browser**/
+.file_upload {position:relative;float:left;width:100%;margin:0 0 10px;}
+.browser_visible {position:absolute;top:1px;width:77px;height:30px;background:url([IMG]/browse.gif) left 0px no-repeat;z-index:1;}
+#file_field {height:26px;border:solid 1px #e3e3e3;font-size:1em;text-align:left;}
+#browser_hidden {position:relative;width:77px;height:30px;-moz-opacity:0;filter:alpha(opacity: 0);opacity:0;z-index:2;}

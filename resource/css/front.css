@@ -1,0 +1,50 @@
+@CHARSET "ISO-8859-1";
+
+/* update */
+/*.eventbanner_box{position:relative; z-index:1}
+.eventbanner_box {float:left;display:inline-block}
+.eventbanner_titlebox {position:relative;z-index:0;width:100%;background-color:#fff;display:table}
+.eventbanner_titlebox img {position:absolute;z-index:0;display:inline-block}
+.eventbanner_title {font-size:14px;vertical-align:middle;padding-left:5px;display:table-cell;float:left}
+
+
+.eventbanner_titlebox .slider_bullet {position: relative !important; z-index: 5000 !important;vertical-align:middle;display:table-cell;}
+.eventbanner_titlebox .slider_bullet ul {margin:0 5px 0 0;padding:0;list-style-type:none;float:right;}
+.eventbanner_titlebox .slider_bullet li {float:left;margin:0 1px;margin-left:5px;}
+
+
+.eventbanner_titlebox .slider_bullet li a {margin:5px 0 0;display:inline-block;}*/
+
+/*.eventbanner_titlebox .slider_bullet li a.current,.eventbanner_titlebox .slider_bullet li a:hover {background-position:left top}*/
+
+/*.eventbanner_titlebox .slider_bullet li a span {display:inline-block;text-indent:-10000px !important;}
+
+.eventbanner_box .image_slides {width:100%;overflow:hidden;margin:0;padding:0;list-style:none;display:inline-block}
+.eventbanner_box .image_slides li {float:left}
+.eventbanner_box .image_slides li a {border:none;outline:none}
+
+.eventbanner_box  a img{border:none;}*/
+
+/*background:url([IMG]/front/eventbanner_sheet2.png) left -14px no-repeat;*/
+
+/*change .xans-bannerroel-display -> .xans-bannerph-display*/
+
+.xans-bannerroel-display {z-index:1; display:inline-block; vertical-align: top; margin-left: -0.3em; zoom:1; *display:inline}
+.xans-bannerroel-display .eventbanner_titlebox {position:relative;z-index:0;width:100%;background-color:#fff;display:table}
+.xans-bannerroel-display .eventbanner_titlebox img {position:absolute;z-index:0;display:inline-block}
+.xans-bannerroel-display .eventbanner_title {font-size:14px;vertical-align:middle;padding-left:5px;display:table-cell;float:left}
+
+
+.xans-bannerroel-display .eventbanner_titlebox .slider_bullet {position: relative !important; z-index: 5000 !important;vertical-align:middle;display:table-cell;}
+.xans-bannerroel-display .eventbanner_titlebox .slider_bullet ul {margin:0 5px 0 0;padding:0;list-style-type:none;float:right;}
+.xans-bannerroel-display .eventbanner_titlebox .slider_bullet li {float:left;margin:0 1px;margin-left:5px;}
+
+
+.xans-bannerroel-display .eventbanner_titlebox .slider_bullet li a {margin:5px 0 0;display:inline-block;}
+.xans-bannerroel-display .eventbanner_titlebox .slider_bullet li a span {display:inline-block;text-indent:-10000px !important;}
+
+.xans-bannerroel-display .image_slides {width:100%;overflow:hidden;margin:0;padding:0;list-style:none;display:inline-block}
+.xans-bannerroel-display .image_slides li {float:left}
+.xans-bannerroel-display .image_slides li a {border:none;outline:none}
+
+.xans-bannerroel-display  a img{border:none;}
